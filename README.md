@@ -7,6 +7,7 @@ pode ser alcancado dentro do limite diario `d`.
 Arquivos:
 
 - `rally.py`: implementacao em Python 3.
+- `explicacao_codigo.md`: explicacao detalhada do codigo com trechos comentados.
 
 ## Formato da entrada
 
